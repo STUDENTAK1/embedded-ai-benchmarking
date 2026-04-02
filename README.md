@@ -64,7 +64,6 @@ FPS values are weighted averages across all three run conditions per task.
   /xiao_esp32s3          — Arduino sketches for XIAO vision tasks
   /esp32s3zero           — Arduino sketches for ESP32-S3 Zero vision tasks
 ```
-## Repository Structure
 
 All files are stored in the root directory:
 
