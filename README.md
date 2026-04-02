@@ -64,7 +64,15 @@ FPS values are weighted averages across all three run conditions per task.
   /xiao_esp32s3          — Arduino sketches for XIAO vision tasks
   /esp32s3zero           — Arduino sketches for ESP32-S3 Zero vision tasks
 ```
+## Repository Structure
 
+All files are stored in the root directory:
+
+- **CSV files** (`*_run*.csv`) — Raw PuTTY serial logs for all platforms and tasks
+- **Firmware** (`*.ino`) — Arduino sketches for each platform
+- **Videos** (`WhatsApp Video *.mp4`) — Test run to show how was done recordings
+- **Images** (`WhatsApp Image *.jpeg`) — Test AND setup  photos
+- **Portfolio documents** (`*.docx`) — Platform reports and final report
 ---
 
 ## Serial Log Format
